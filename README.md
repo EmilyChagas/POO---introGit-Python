@@ -1,0 +1,59 @@
+Usei os seguintes comandos no git:
+- git init 
+- git config --local user.name
+- git config --local user.email
+- git config --global core.editor “code --wait”
+- git config --global init.defaultBranch main
+- git config --list
+- git status
+- git status -s
+- git add calculadora.py
+- git status -s
+- git Commit
+- git status 
+- git lop -p
+- git lop --pretty=oneline
+- git status -s
+- git add teste_calculadora.pv
+- git diff
+- git tag -a v1.0.0 -m “operação de somar implementada e testada”
+- git tag --lits
+- git show v1.0.0
+- git commit -a
+- git status -s
+- git lop --pretty=oneline
+- git log --pretty=oneline
+- git status -s
+- git add teste_calculadora.py
+- git commit -m "Teste da função subtrair"
+- git tag -a v1.0.1 "Operação de subtrair implementada e testada"
+- git tag -a v1.0.1 -m "Operação de subtrair implementada e testada"
+- git status -s
+- git add calculadora.py
+- git status -s
+- git commit -m "Função multiplicar implementada"
+- git status -s
+- git add teste calculadora.py
+- git commit -m "Teste função multiplicar"
+- git tag -a v1.0.2 -m "Operação Multiplicar implementada e testada"
+- git tag 
+- git tag --list
+- git show v1.0.2
+- git log --pretty=oneline
+- git status -s
+- git status
+- git add calculadora.py
+- git status -s
+- git commit -m "Função dividir implementada"
+- git status -s
+- git add teste calculadora.py
+- git commit -m "Teste função dividir"
+- git tag -a v1.0.2 -m "Operação dividir implementada e testada"
+- git tag
+- git show v1.0.3
+- git log --pretty=oneline
+- git remote add origin https://token@github.com/EmilyChagas/POO---introGit-Python.git
+- git push origin
+- git push v1.0.0
+- git push origin v1.0.0
+- git push origin --tag
